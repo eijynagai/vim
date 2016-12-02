@@ -8,7 +8,7 @@ Configuration file `.vimrc` can be checked [here](https://github.com/eijynagai/d
 Basically, you can install JEDI-VIM using the command:
 
 ```
-git install jedi
+pip install jedi
 ```
 
 Then, you can change the autocompletion function to the key <tab>. Just download the file `supertab.vmb` and open with vim:
