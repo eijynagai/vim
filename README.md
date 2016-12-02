@@ -1,5 +1,4 @@
 # vim
-teste
 
 Configuration file `.vimrc` can be checked [here](https://github.com/eijynagai/dotfiles). Other specific configuration I have done are described bellow:
 
