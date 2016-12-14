@@ -20,3 +20,6 @@ Inside vim execute the command:
 :source %
 ```
 Done! Now you have improved and personalized a bit your Vim. Have fun!
+
+
+http://www.moolenaar.net/habits.html
